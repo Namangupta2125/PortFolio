@@ -105,7 +105,7 @@ function Hero() {
           <ScrollLink>
             Scroll down
             <img
-              src="/scroll-down.svg"
+              src="./scroll-down.svg"
               alt="scroll-down"
             />
           </ScrollLink>
