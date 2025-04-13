@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "./project_images/DrivingQuiz",
+    img: "./project_images/DrivingQuiz.png",
     title: "3D Driving Quiz",
     description: "A website to learn the how to behave in traffic in 3d",
     tech_stack: ["Three", "GSAP", "Yuka", "JS"],
