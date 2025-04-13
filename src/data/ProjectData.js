@@ -1,6 +1,14 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
+    img: "./project_images/DrivingQuiz",
+    title: "3D Driving Quiz",
+    description: "A website to learn the how to behave in traffic in 3d",
+    tech_stack: ["Three", "GSAP", "Yuka", "JS"],
+    github_url: "",
+    demo_url: "https://3ddrivingquiz.netlify.app/",
+  },
+  {
     img: "./project_images/weather.png",
     title: "Weather App",
     description:
@@ -34,7 +42,7 @@ export const ProjectList = [
     tech_stack: ["Html", "WebGL", "Three.js"],
     github_url: "",
     demo_url: "https://solar-system-sd21.netlify.app/",
-  }
+  },
 ];
 
 
