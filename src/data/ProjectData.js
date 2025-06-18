@@ -1,11 +1,19 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
+    img: "./project_images/image.png",
+    title: "3D Pokedex",
+    description: "A Fun way to learn about pokemons and my Friends",
+    tech_stack: ["Three", "GSAP", "Blender", "JS"],
+    github_url: "https://github.com/Namangupta2125/Pokedex",
+    demo_url: "https://pokedex3d21.netlify.app/",
+  },
+  {
     img: "./project_images/DrivingQuiz.png",
     title: "3D Driving Quiz",
     description: "A website to learn the how to behave in traffic in 3d",
     tech_stack: ["Three", "GSAP", "Yuka", "JS"],
-    github_url: "",
+    github_url: "https://github.com/Namangupta2125/Driving-Quiz",
     demo_url: "https://3ddrivingquiz.netlify.app/",
   },
   {
